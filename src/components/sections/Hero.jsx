@@ -60,7 +60,7 @@ export default function Hero() {
               icon={Download}
               download
             >
-              Download CV
+              View CV
             </Button>
           </div>
 

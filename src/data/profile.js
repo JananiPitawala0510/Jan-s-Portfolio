@@ -9,7 +9,7 @@ export const profile = {
   location: 'Sri Lanka',
   university: 'University of Moratuwa',
   degree: 'BSc (Hons) in Information Technology and Management',
-  resumeUrl: '#', // TODO: replace with link to your downloadable CV (PDF)
+  resumeUrl: 'https://drive.google.com/drive/folders/12Npi6PIfr9SLktrKQCtM91d1bI6CBYdv?usp=sharing', // TODO: replace with link to your downloadable CV (PDF)
   email: 'pitawalacha@gmail.com',
   social: {
     github: 'https://github.com/JananiPitawala0510',

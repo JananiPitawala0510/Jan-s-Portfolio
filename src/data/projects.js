@@ -42,7 +42,7 @@ export const projects = [
       github: 'https://github.com/dinithrathnayaka23/TrackNGo.git',
       demo: null,
     },
-    image: null,
+    image: 'trackngo.png',
   },
   {
     id: 'flavors-of-jan',
@@ -71,7 +71,7 @@ export const projects = [
       github: 'https://github.com/JananiPitawala0510/FlavorsOfJan.git',
       demo: null,
     },
-    image: null,
+    image: 'Logo1.png',
   },
   {
     id: 'battery-vitals',
@@ -101,7 +101,7 @@ export const projects = [
     links: {
       github: 'https://lnkd.in/p/g4s2MVN2',
     },
-    image: null,
+    image: 'batteryV.jpg',
   },
   {
   id: 'InkWell',
@@ -136,7 +136,7 @@ export const projects = [
     demo: 'https://lnkd.in/p/gAGaYgdP',
   },
 
-  image: '/2.jpg',
+  image: 'inkWell.png',
 },
 /*
 {
