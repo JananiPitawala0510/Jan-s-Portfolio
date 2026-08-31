@@ -13,7 +13,7 @@ export const profile = {
   email: 'pitawalacha@gmail.com',
   social: {
     github: 'https://github.com/JananiPitawala0510',
-    linkedin: 'www.linkedin.com/in/janani-pitawala-196828304',
+    linkedin: 'https://www.linkedin.com/in/janani-pitawala-196828304',
   },
 }
 
