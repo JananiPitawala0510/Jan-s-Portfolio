@@ -71,7 +71,7 @@ export const projects = [
       github: 'https://github.com/JananiPitawala0510/FlavorsOfJan.git',
       demo: null,
     },
-    image: 'Logo1.png',
+    image: 'FlavorsOfJan.png',
   },
   {
     id: 'battery-vitals',
