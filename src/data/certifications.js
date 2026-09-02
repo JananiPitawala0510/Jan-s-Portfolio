@@ -1,5 +1,5 @@
 export const certifications = [
-  { id: 'aws-fundamentals', name: 'AWS Fundamentals', issuer: 'DataCamp' },
+  { id: 'aws-fundamentals', name: 'AWS Certified Cloud Practitioner', issuer: 'LinkedIn' },
   { id: 'python-beginners', name: 'Python for Beginners', issuer: 'University of Moratuwa' },
   { id: 'Front-End Development Libraries', name: 'Front-End Development Libraries', issuer: 'freeCodeCamp' },
   { id: 'Back-End Development and APIs', name: 'Back-End Development and APIs', issuer: 'freeCodeCamp' },

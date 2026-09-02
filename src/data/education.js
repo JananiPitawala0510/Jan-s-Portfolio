@@ -6,12 +6,6 @@ export const education = [
     period: '2024 - Present',
   },
   {
-    id: 'ghsk',
-    institution: "Girls' High School Kandy",
-    credential: 'G.C.E. Advanced Level, G.C.E. Ordinary Level',
-    period: '2008-2022',
-  },
-  {
     id: 'esoft',
     institution: 'Esoft Metro Campus',
     credential: ' Diploma in Information Technology',
@@ -23,4 +17,11 @@ export const education = [
     credential: 'Certificate in Public Speaking',
     period: '2024',
   },
+  {
+    id: 'ghsk',
+    institution: "Girls' High School Kandy",
+    credential: 'G.C.E. Advanced Level, G.C.E. Ordinary Level',
+    period: '2008-2022',
+  },
+  
 ]

@@ -42,7 +42,7 @@ export const projects = [
       github: 'https://github.com/dinithrathnayaka23/TrackNGo.git',
       demo: null,
     },
-    image: 'trackngo.png',
+    image: 'Trackngoo.png',
   },
   {
     id: 'flavors-of-jan',
